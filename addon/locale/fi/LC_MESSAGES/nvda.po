@@ -1,0 +1,115 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the beepKeyboard package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: beepKeyboard\n"
+"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"POT-Creation-Date: 2019-10-05 15:01+1000\n"
+"PO-Revision-Date: 2019-10-12 00:07+0200\n"
+"Last-Translator: Jani Kinnunen <janikinnunen340@gmail.com>\n"
+"Language-Team: Jani Kinnunen <jani.kinnunen@wippies.fi>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Translators: This is the label for the beepKeyboard  settings category in NVDA Settings screen.
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+msgid "Beep keyboard"
+msgstr "Näppäimistön äänimerkki"
+
+#. Translators: label for a checkbox option in the settings panel.
+msgid "Beep for uppercases  when &caps lock is on"
+msgstr "Ilmaise isot kirjaimet äänimerkillä, kun &Caps Lock on käytössä"
+
+#. Translators: label for a checkbox option in the settings panel.
+msgid "Beep for typed characters when &shift is pressed"
+msgstr "Ilmaise kirjoitetut merkit äänimerkillä &Vaihto-näppäintä painettaessa"
+
+#. Translators: label for a checkbox option in the settings panel.
+msgid "Beep for &toggle keys changes"
+msgstr "Ilmaise &tilanvaihtonäppäinten muutokset äänimerkillä"
+
+#. Translators: label for a checkbox option in the settings panel.
+msgid ""
+"&Announce toggle keys changes (if Beep for toggle keys changes is disabled "
+"NVDA will have the original behavior)"
+msgstr ""
+"&Puhu tilanvaihtonäppäinten muutokset (mikäli Ilmaise tilanvaihtonäppäinten "
+"muutokset äänimerkillä ei ole käytössä, NVDA käyttäytyy alkuperäisellä "
+"tavalla)"
+
+#. Translators: label for a checkbox option in the settings panel.
+msgid "&disable beeping on password fields"
+msgstr "&Poista äänimerkki käytöstä salasanakentissä"
+
+#. Translators: label for a button to open advanced settings dialog in the settings panel.
+msgid "&Open advanced options"
+msgstr "&Avaa lisäasetukset"
+
+#. Translators: This is the label for the beep keyboard advanced settings dialog
+msgid "Advanced settings - Keyboard beep"
+msgstr "Lisäasetukset - Näppäimistön äänimerkki"
+
+#. Translators: label for an edit text control option in the advanced settings dialog.
+msgid "&Ignored characters with shift pressed"
+msgstr "&Ohitettavat merkit Vaihto-näppäintä painettaessa"
+
+#. Translators: label for an edit text control option in the advanced settings dialog.
+msgid "Beep &always for the following characters"
+msgstr "Anna äänimerkki &aina seuraaville merkeille"
+
+#. Translators: label for a combo box control in the advanced settings dialog.
+msgid "&Select tone to configure"
+msgstr "Va&litse määritettävä äänimerkki"
+
+#. Translators: label for an option of a combo box control.
+msgid "Typed characters with shift pressed"
+msgstr "Kirjoitetut merkit Vaihto-näppäintä painettaessa"
+
+#. Translators: label for an option of a combo box control.
+msgid "Custom characters"
+msgstr "Mukautetut merkit"
+
+#. Translators: label for an option of a combo box control.
+msgid "Typed characters when  caps lock is on"
+msgstr "Kirjoitetut merkit, kun Caps Lock on käytössä"
+
+#. Translators: label for an option of a combo box control.
+msgid "Toggle key goes off"
+msgstr "Tilanvaihtonäppäin poistetaan käytöstä"
+
+#. Translators: label for an option of a combo box control.
+msgid "Toggle key goes on"
+msgstr "Tilanvaihtonäppäin otetaan käyttöön"
+
+#. Translators: label for an edit text control option in the advanced settings dialog.
+msgid "Tone &pitch"
+msgstr "Äänimerkin &korkeus"
+
+#. Translators: label for an edit text control option in the advanced settings dialog.
+msgid "Tone &length"
+msgstr "Äänimerkin k&esto"
+
+#. Translators: label for an edit text control option in the advanced settings dialog.
+msgid "Tone &volume"
+msgstr "Äänimerkin &voimakkuus"
+
+#. Translators: label for a button to play demo tone in advanced settings dialog.
+msgid "&Test tone"
+msgstr "&Testaa ääntä"
+
+#. Translators: an error message sent to ve spoken by NVDA.
+msgid "You entered a wrong value. Please correct it or discard changes."
+msgstr "Kirjoitit väärän arvon. Korjaa se tai hylkää muutokset."
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+msgid "This add-on beeps with some keyboard events."
+msgstr "Tämä lisäosa antaa äänimerkin joillekin näppäimistön tapahtumille."
