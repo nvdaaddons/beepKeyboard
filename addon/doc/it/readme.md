@@ -3,7 +3,7 @@
 * Autore: David CM
 * Download [stable version][1]
 * Download [Development version][2]
-* NVDA compatibility: 2018.2 to 2019.2
+* Compatibilità NVDA: da 2018.2 a 2019.2
 
 Questo componente aggiuntivo consente all'utente di configurare NVDA per
 emettere un segnale acustico in base ad alcuni eventi della tastiera.
@@ -46,29 +46,33 @@ Basta installarlo come un normale componente aggiuntivo di NVDA.
 
 ## Utilizzo
 
-To enable or disable features, go to NVDA settings and select beep keyboard category. In that category you can configure all  supported features by this add-on.  
+Per abilitare o disabilitare le funzionalità, accedere alle impostazioni di NVDA e selezionare la categoria beep tastiera. 
 
-* "Beep for uppercases when caps lock is on" is enabled by default.
+* "Bip per maiuscole quando il blocco maiuscole è attivato" è abilitato per
+  impostazione predefinita.
 
-If you need more settings, open the advanced settings dialog that contains
-the following options:
+Se hai bisogno di più impostazioni, apri la finestra di dialogo delle
+impostazioni avanzate che contiene le seguenti opzioni:
 
-* Ignored characters with shift pressed: all characters here will be ignored
-  to beeping when shift is pressed. Escape Sequences are allowed, e.g. "\t"
-  for tab, "\r" for carriage return.
-* Beep always for the following characters: set here all characters that you
-  want NVDA beeps for. Escape Sequences are allowed, e.g. "\t" for tab, "\r"
-  for carriage return.
-* Select tone to configure: you can configure parameters for all
-  tones. Select one here, and set the parameters in the next text
-  boxes. When change selection, NVDA will beep for the current selected tone
-  with the current parameters set in the dialog.
-* Tone pitch: tone pitch for the current selected tone.
-* Tone length: tone length for the current selected tone.
-* Tone volume: tone volume for the current selected tone.
-* Test tone: this button lets you to play a test with the current set
-  parameters.
-* Press OK button to save settings or cancel to discard.
+* Caratteri ignorati con Maiusc premuto: saranno ignorati tutti i caratteri
+  digitati con il tasto Shift premuto. Sono consentite sequenze di escape,
+  ad es. "\t" per tab, "\r" per a capo.
+* Emetti sempre un segnale acustico per i seguenti caratteri: imposta qui
+  tutti i caratteri per i quali vuoi che venga emesso un segnale acustico da
+  NVDA. Sono consentite sequenze di escape, ad es. "\t" per tab, "\r" per a
+  capo.
+* Seleziona tono da configurare: è possibile configurare i parametri per
+  tutti i toni. Selezionane uno qui e imposta i parametri nelle caselle di
+  testo successive. Quando si cambia la selezione, NVDA emetterà un segnale
+  acustico per il tono attualmente selezionato con i parametri correnti
+  impostati nella finestra di dialogo.
+* Altezza tono: pitch del tono per il tono selezionato.
+* Lunghezza tono: lunghezza del tono per il tono selezionato.
+* Volume tono: volume tono per il tono selezionato.
+* Tono di prova: questo pulsante consente di eseguire un test con il set di
+  parametri corrente.
+* Premere il pulsante OK per salvare le impostazioni o annulla per uscire
+  senza salvare.
 
 [[!tag dev stable]]
 
