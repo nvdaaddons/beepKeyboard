@@ -44,12 +44,13 @@ Asenna se NVDA-lisäosana.
 
 ## Käyttö
 
-To enable or disable features, go to NVDA settings and select beep keyboard category. In that category you can configure all  supported features by this add-on.  
+Valitse käytettävät asetukset menemällä NVDA:n asetuksiin ja valitsemalla Näppäimistön äänimerkit. Tästä kategoriasta voit määrittää kaikki tämän lisäosan tukemat toiminnot.
 
-* "Beep for uppercases when caps lock is on" is enabled by default.
+* "Ilmaise isot kirjaimet äänimerkillä, kun Caps Lock on käytössä" on
+  oletusarvoisesti käytössä.
 
-If you need more settings, open the advanced settings dialog that contains
-the following options:
+Mikäli tarvitset lisää asetuksia, avaa lisäasetusten valintaikkuna, jossa on
+valittavissa seuraavat asetukset:
 
 * Ignored characters with shift pressed: all characters here will be ignored
   to beeping when shift is pressed. Escape Sequences are allowed, e.g. "\t"
