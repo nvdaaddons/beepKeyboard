@@ -1,4 +1,4 @@
-# Beep Keyboard #
+# Näppäimistön äänimerkki #
 
 * Tekijä: David CM
 * Lataa [vakaa versio][1]
@@ -52,22 +52,24 @@ Valitse käytettävät asetukset menemällä NVDA:n asetuksiin ja valitsemalla N
 Mikäli tarvitset lisää asetuksia, avaa lisäasetusten valintaikkuna, jossa on
 valittavissa seuraavat asetukset:
 
-* Ignored characters with shift pressed: all characters here will be ignored
-  to beeping when shift is pressed. Escape Sequences are allowed, e.g. "\t"
-  for tab, "\r" for carriage return.
-* Beep always for the following characters: set here all characters that you
-  want NVDA beeps for. Escape Sequences are allowed, e.g. "\t" for tab, "\r"
-  for carriage return.
-* Select tone to configure: you can configure parameters for all
-  tones. Select one here, and set the parameters in the next text
-  boxes. When change selection, NVDA will beep for the current selected tone
-  with the current parameters set in the dialog.
-* Tone pitch: tone pitch for the current selected tone.
-* Tone length: tone length for the current selected tone.
-* Tone volume: tone volume for the current selected tone.
-* Test tone: this button lets you to play a test with the current set
-  parameters.
-* Press OK button to save settings or cancel to discard.
+* Ohitettavat merkit Vaihto-näppäintä painettaessa: kaikki tässä luetellut
+  merkit eivät anna äänimerkkiä, kun ne kirjoitetaan Vaihto-näppäin
+  pohjassa. Escape-koodit ovat sallittuja, esim. "\t" = sarkain, "\r" =
+  rivinvaihto.
+* Anna aina äänimerkki näille merkeille: Lisää tähän merkit, joista haluat
+  NVDA:n antavan äänimerkin. Escape-koodit ovat sallittuja, esim. "\t" =
+  sarkain, "\r" = rivinvaihto.
+* Valitse määritettävä äänimerkki: Voit muuttaa tässä äänimerkkien
+  parametreja. Valitse haluamasi ja aseta parametrit seuraavissa
+  tekstiruuduissa. Kun valittua äänimerkkiä on muutettu, NVDA toistaa sen
+  tässä valintaikkunassa asetetuilla parametreilla.
+* Äänimerkin korkeus: Valitun äänimerkin korkeus.
+* Äänimerkin kesto: Valitun äänimerkin kesto.
+* Äänimerkin voimakkuus: Valitun äänimerkin voimakkuus.
+* Testaa äänimerkkiä: Tällä painikkeella voit toistaa testin nykyisiä
+  parametreja käyttäen.
+* Tallenna asetukset painamalla OK-painiketta tai hylkää muutokset
+  painamalla Peruuta.
 
 [[!tag dev stable]]
 
