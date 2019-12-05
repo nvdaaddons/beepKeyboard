@@ -10,14 +10,14 @@ zvučni signali za neke događaje na tipkovnici.
 
 ## Funkcije
 
-Ovaj dodatak pruža sljedeće funkcije, pomoću kojij je moguće prilagoditi
+Ovaj dodatak pruža sljedeće funkcije, pomoću kojih je moguće prilagoditi
 način rada NVDA tipkovnice:
 
-* Zvučni signal za velika slova kad je uključeno pisanje velikim slovima:
-  ako je ova funkcija uključena, NVDA će odsvirati zvučni signal tijekom
-  pisanja velikih slova, kad je pisanje velikim slovima uključeno. S ovom
-  funkcijom više nećeš griješiti!
-* Zvučni signal za vrstu znakova kad je tipka shift pritisnuta: s ovom
+* Zvučni signal za velika slova kad su velika slova uključena: ako je ova
+  funkcija uključena, NVDA će odsvirati zvučni signal tijekom tipkanja
+  velikih slova, kad je tipkanje velikim slovima uključeno. S ovom funkcijom
+  više nećeš griješiti!
+* Zvučni signal za tipkane znakove kad je tipka shift pritisnuta: s ovom
   funkcijom će NVDA odsvirati zvučni signal tijekom tipkanja znakova s
   istovremeno pritisnutom tipkom shift.
 * Zvučni signal za promjenu stanja preklopnih tipki: s ovom funkcijom će
@@ -26,12 +26,12 @@ način rada NVDA tipkovnice:
   signal za preklopne tipke u centru za olakšani pristup. Ova izvorna
   funkcija radi dobro, ako se ne koristi postavka za raspored tipkovnice na
   laptopu.
-* Obavijesti o promjenama stanja preklopnih tipki: samo kad je „Zvučni
-  signal za promjenu stanja preklopnih tipki” uključeno. Obavještavanje o
-  promjenama stanja preklopnih tipki je moguće uključiti ili isključiti.
+* Najavi promjene stanja preklopnih tipki: samo kad je „Zvučni signal za
+  promjenu stanja preklopnih tipki” uključeno. Najavljivanje promjena stanja
+  preklopnih tipki je moguće uključiti ili isključiti.
 * Zvučni signal za određene znakove: NVDA će odsvirati zvučni signal za sve
   znakove koji su postavljeni u naprednim postavkama.
-* Isključi zvučni signal u poljima za lozinku: ova funkcija je standardno
+* Isključi zvučni signal u poljima za lozinku: ova je funkcija standardno
   isključena iz sigurnosnih razloga. Isključi signal, ako želiš čuti zvučni
   signal u poljima za lozinku.
 
@@ -45,15 +45,15 @@ Instaliraj ga kao NVDA dodatak.
 
 ## Primjena
 
-Za uključivanje ili isključivanje funkcije, prijeđi na NVDA postavke i odaberi kategoriju Zvučni signal za tipkovnicu. U toj kategoriji je moguće konfigurirati sve funkcije koje ovaj dodatak podržava.  
+Za uključivanje ili isključivanje funkcije, prijeđi na NVDA postavke i odaberi kategoriju „Zvučni signal za tipkovnicu”. U toj kategoriji je moguće konfigurirati sve funkcije koje ovaj dodatak podržava.  
 
-* „Zvučni signal za velika slova, kad je tipkanje velikim slovima uključeno”
-  je standardno aktivirano.
+* „Zvučni signal za velika slova kad su velika slova uključena” je
+  standardno aktivirano.
 
-Ako trebaš daljnje postavke, otvori dijalog s naprednim postavkama, koji
-sadrži sljedeće opcije:
+Ako trebaš daljnje postavke, otvori dijaloški okvir s naprednim postavkama,
+koji sadrži sljedeće opcije:
 
-* Ignorirani znakovi s pritisnutom tipkom shift: zvučni signali će se
+* Zanemareni znakovi s pritisnutom tipkom shift: zvučni signali će se
   ignorirati za sve ovdje navedene znakove, kad je pritisnuta tipka
   shift. Dozvoljena je upotreba slijeda znakova, npr. "\t" za tabulator,
   "\r" za prekid retka.
@@ -64,11 +64,11 @@ sadrži sljedeće opcije:
   sve zvukove. Ovdje odaberi jedan zvuk i postavi parametre u sljedećim
   tekstualnim okvirima. Prilikom promjene odabira, NVDA će odsvirati zvučni
   signal za trenutačno odabrani zvuk s trenutačno postavljenim parametrima u
-  dijalogu.
+  dijaloškom okviru.
 * Visina zvuka: visina zvuka za trenutačno odabrani zvuk.
 * Duljina zvuka: duljina zvuka za trenutačno odabrani zvuk.
 * Glasnoća zvuka: glasnoća zvuka za trenutačno odabrani zvuk.
-* Testiranje zvuka: ovaj gumb omogućuje reprodukciju zvuka s trenutačno
+* Testiranje zvuka: ovaj gumb omogućuje sviranje zvuka s trenutačno
   postavljenim parametrima.
 * Pritisni gumb „U redu” za spremanje postavki ili pritisni gumb „Odustani”
   za prekid.
