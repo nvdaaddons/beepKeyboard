@@ -1,4 +1,4 @@
-# Zvučni signal za tipkovnicu (Beep Keyboard) #
+# Zvučni signali za tipkovnicu (Beep Keyboard) #
 
 * Autor: David CM
 * Preuzmi [stabilnu verziju][1]
@@ -45,7 +45,7 @@ Instaliraj ga kao NVDA dodatak.
 
 ## Primjena
 
-Za uključivanje ili isključivanje funkcije, prijeđi na NVDA postavke i odaberi kategoriju „Zvučni signal za tipkovnicu”. U toj kategoriji je moguće konfigurirati sve funkcije koje ovaj dodatak podržava.  
+Za uključivanje ili isključivanje funkcije, prijeđi na NVDA postavke i odaberi kategoriju „Zvučni signali za tipkovnicu”. U toj kategoriji je moguće konfigurirati sve funkcije koje ovaj dodatak podržava.  
 
 * „Zvučni signal za velika slova kad su velika slova uključena” je
   standardno aktivirano.
