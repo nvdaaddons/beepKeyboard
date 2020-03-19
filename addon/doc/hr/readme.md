@@ -17,9 +17,9 @@ način rada NVDA tipkovnice:
   funkcija uključena, NVDA će odsvirati zvučni signal tijekom tipkanja
   velikih slova, kad je tipkanje velikim slovima uključeno. S ovom funkcijom
   više nećeš griješiti!
-* Zvučni signal za tipkane znakove kad je tipka shift pritisnuta: s ovom
+* Zvučni signal za tipkane znakove kad je tipka šift pritisnuta: s ovom
   funkcijom će NVDA odsvirati zvučni signal tijekom tipkanja znakova s
-  istovremeno pritisnutom tipkom shift.
+  istovremeno pritisnutom tipkom šift.
 * Zvučni signal za promjenu stanja preklopnih tipki: s ovom funkcijom će
   NVDA odsvirati viši zvučni signal, ako se preklopna tipka uključi, a niži
   zvučni signal, ako se isključi. Napomena: Windows ima ugrađeni zvučni
@@ -53,10 +53,10 @@ Za uključivanje ili isključivanje funkcije, prijeđi na NVDA postavke i odaber
 Ako trebaš daljnje postavke, otvori dijaloški okvir s naprednim postavkama,
 koji sadrži sljedeće opcije:
 
-* Zanemareni znakovi s pritisnutom tipkom shift: zvučni signali će se
+* Zanemareni znakovi s pritisnutom tipkom šift: zvučni signali će se
   ignorirati za sve ovdje navedene znakove, kad je pritisnuta tipka
-  shift. Dozvoljena je upotreba slijeda znakova, npr. "\t" za tabulator,
-  "\r" za prekid retka.
+  šift. Dozvoljena je upotreba slijeda znakova, npr. "\t" za tabulator, "\r"
+  za prekid retka.
 * Uvijek odsviraj zvučni signal za sljedeće znakove: ovdje postavi sve
   znakove, za koje želiš da NVDA odsvira zvučni signal. Dozvoljena je
   upotreba slijeda znakova, npr. "\t" za tabulator, "\r" za prekid retka.
