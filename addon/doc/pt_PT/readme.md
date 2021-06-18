@@ -1,7 +1,7 @@
 # bips de teclado #
 
 * Autor: David CM
-* Download [stable version][1]
+* Baixar [versão estável][1]
 * Baixar [versão de desenvolvimento][2]
 * Compatibilidade com NVDA: 2018.2 até 2019.1
 
