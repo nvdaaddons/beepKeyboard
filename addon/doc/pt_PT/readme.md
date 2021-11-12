@@ -8,7 +8,7 @@
 Este extra permite ao utilizador configurar o NVDA para emitir bips com
 alguns eventos de teclado.
 
-## Funcionalidades:
+## Funcionalidades
 
 Este extra fornece-lhe os seguintes recursos que pode usar para adaptar o
 comportamento do teclado do NVDA:
@@ -41,9 +41,9 @@ comportamento do teclado do NVDA:
 
 ## Instalação
 
-Instale como qualquer extra do NVDA
+Instale como qualquer extra do NVDA.
 
-## utilização
+## Utilização
 
 Para activar ou desactivar recursos, vá para as configurações do NVDA e seleccione a categoria do extra "bips de teclado". Nessa categoria, pode configurar todos os recursos suportados por este extra.
 
