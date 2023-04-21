@@ -70,6 +70,6 @@ Avancerede indstillinger, der indeholder følgende indstillinger:
 
 [[!tag dev stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=beepkeyboard
+[1]: https://www.nvaccess.org/addonStore/legacy?file=beepkeyboard
 
-[2]: https://addons.nvda-project.org/files/get.php?file=beepkeyboard
+[2]: https://www.nvaccess.org/addonStore/legacy?file=beepkeyboard
