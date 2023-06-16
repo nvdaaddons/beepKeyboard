@@ -35,7 +35,7 @@ Eklenti sayesinde NVDA'nın klavye davranışlarını değiştirmek için aşağ
 
 ## Gereksinimler
 
-NVDA 2018.2 veya daha üstü sürümü
+NVDA 2018.2 veya üstü sürüm gerektirir.
 
 ## Kurulum
 
