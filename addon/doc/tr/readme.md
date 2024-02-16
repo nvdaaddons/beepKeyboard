@@ -45,8 +45,8 @@ NVDA 2018.2 veya üstü sürüm gerektirir.
 
 Özellikleri açıp kapatmak için NVDA ayarlarının sesli klavye kategorisini kullanın. Bu kategoride eklentinin desteklediği tüm özellikleri ayarlayabilirsiniz.
 
-* "Capslock açıkken büyük harf yazıldığında bip sesi çıkar" özelliği
-  varsayılan olarak açıktır.
+* "Büyük harf kilidi açıkken büyük harf yazıldığında bip sesi çıkar"
+  özelliği varsayılan olarak açıktır.
 
 Daha fazla ayarlama yapmak istiyorsanız aşağıdaki seçenekleri içeren
 gelişmiş ayarlar iletişim kutusunu kullanın:
